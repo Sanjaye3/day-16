@@ -1,0 +1,26 @@
+form{
+    padding:30px;
+    background:  grey
+
+}
+
+table,th {
+    border: 1px solid black;
+    padding: 10px;
+}
+table{
+
+    display: block;
+    padding-left: 30px;
+    background:  grey;
+}
+#myTable tr:first-child th{
+    background-color: grey;
+}
+body {
+    background-color: white;
+}
+tr{
+    background:  grey;
+    text-align: center;
+}
